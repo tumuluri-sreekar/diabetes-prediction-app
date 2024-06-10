@@ -1,0 +1,34 @@
+.diabetes-info-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.6rem;
+    
+    color: #666;
+}
+
+.info-section {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+.info-section:last-child {
+    border-bottom: none;
+}
